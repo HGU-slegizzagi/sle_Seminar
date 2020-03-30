@@ -37,7 +37,7 @@
 | 9 주차                             | Late MT or BBQ                    | No Sminar               | No Sminar |
 | 10 주차                            | sleCS01 + Project Meeting         |                         |           |
 | 11 주차                            | sleCS01 + Project Meeting         |                         |           |
-| 12 주차                            | sleCS01 + Project Meeting         |                         |           |
+| 12 주차                            | sleCS01 + Project Meeting         | myProject & (coding interview) |   김가영    |
 | 13 주 차                           | sleCS01 + Project Meeting         |                         |           |
 | 14 주차                            | :tada: ​Slegizzagi Party :pizza: ​​  |                         |           |
 | 15 주차                            | ~~Week Off~~                      | No Sminar               | No Sminar |
