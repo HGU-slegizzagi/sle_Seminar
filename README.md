@@ -38,7 +38,7 @@
 | 10 주차                            | sleCS01 + Project Meeting         |                         |           |
 | 11 주차                            | sleCS01 + Project Meeting         |                         |           |
 | 12 주차                            | sleCS01 + Project Meeting         | myProject & (coding interview) |   김가영    |
-| 13 주 차                           | sleCS01 + Project Meeting         |                         |           |
+| 13 주 차                           | sleCS01 + Project Meeting         | coding space에 걸려있는 사람 #2    |    김도윤       |
 | 14 주차                            | :tada: ​Slegizzagi Party :pizza: ​​  |                         |           |
 | 15 주차                            | ~~Week Off~~                      | No Sminar               | No Sminar |
 | <font color = "red">16 주차</font> | 기말 고사: ~~Wee Off~~            | No Sminar               | No Sminar |
