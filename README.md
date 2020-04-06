@@ -35,7 +35,7 @@
 | 7 주차                             | sleCS01 + Project Meeting         |                         |           |
 | <font color = "red">8 주차</font>  | 중간 고사: ~~Week Off~~           | No Sminar               | No Sminar |
 | 9 주차                             | Late MT or BBQ                    | No Sminar               | No Sminar |
-| 10 주차                            | sleCS01 + Project Meeting         |                         |           |
+| 10 주차                            | sleCS01 + Project Meeting         |      미정                |  이지명         |
 | 11 주차                            | sleCS01 + Project Meeting         |                         |           |
 | 12 주차                            | sleCS01 + Project Meeting         | myProject & (coding interview) |   김가영    |
 | 13 주 차                           | sleCS01 + Project Meeting         | coding space에 걸려있는 사람 #2    |    김도윤       |
