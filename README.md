@@ -32,7 +32,7 @@
 | ---------------------------------- | --------------------------------- | ----------------------- | --------- |
 | 5 주차                             | OT (Orientation)                  | :free: **sleFT101**: OT | 전상규    |
 | 6 주차                             | sleCS01(세미나) + Project Meeting |   OT#2|    전상규 |
-| 7 주차                             | sleCS01 + Project Meeting         |                         |           |
+| 7 주차                             | sleCS01 + Project Meeting         |   :bulb: **sleIP102** 슈퍼코더 제 1장: 정보가  |    전상규       |
 | <font color = "red">8 주차</font>  | 중간 고사: ~~Week Off~~           | No Sminar               | No Sminar |
 | 9 주차                             | Late MT or BBQ                    | No Sminar               | No Sminar |
 | 10 주차                            | sleCS01 + Project Meeting         |      미정                |  이지명         |
